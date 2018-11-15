@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RichEditControl_CheckBox/Form1.cs) (VB: [Form1.vb](./VB/RichEditControl_CheckBox/Form1.vb))
+<!-- default file list end -->
 # How to insert a CheckBox into a RichEditControl document
 
 
